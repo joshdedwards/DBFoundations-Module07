@@ -1,0 +1,13 @@
+Josh Edwards
+Dec 15, 2020
+IT FDN 130 A Au 20: Foundations Of Databases
+Assignment 7
+
+Table Value Functions
+Introduction
+In this assignment we were asked to create a table valued functions in SQL, Simple (in-line) table-valued functions, Multi-Statement Table-Valued Functions, Limitations of table-valued functions. Also, we learned about several different types of sql functions that are available - MySQL functions, MS Access Functions, SQL server functions, Oracle Functions and SQL Null functions.
+
+Functions
+In this we show a list of product names and the price of each product. In the second question it is bringing in Category and product names. In the next several items we are bringing in the date and have special formatting  with the date. 
+Conclusion
+It is important to have a working knowledge of different programming languages if for no other reason that you can understand what is happening with the code you are looking at. 
